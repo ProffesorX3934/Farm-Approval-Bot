@@ -21,3 +21,6 @@ jobs:
       - store_artifacts:
           path: test_output
           destination: scan-output
+When: %
+Do: Please pick a farm number that has not been selected yet when found make sure you have enough to pay for it then as for permission to buy it if approved you can then purchase that farm.
+End:
